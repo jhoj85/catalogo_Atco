@@ -1,0 +1,27 @@
+{
+    "parts_Number":{
+        "parts":[
+           {
+            "number": "151611",
+            "detail":{
+                        "material": "Steel",
+                        "tube": "1.25 X .049 ",
+                        "ferrule": "3008",
+                        "bend": "3 Bends",
+                        "label": " DYNACRAFT",
+                        "image":""
+                    }
+           },{
+            "number": "123456",
+            "detail":{
+                        "material": "Alumm",
+                        "tube": "1/2 X .035 ",
+                        "ferrule": "3047",
+                        "bend": "90º",
+                        "nut": "302",
+                        "image": ""
+                    }
+           }
+        ]
+    }
+}
